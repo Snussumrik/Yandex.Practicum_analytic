@@ -6,4 +6,4 @@
 - vote_types (содержит информацию о метках, которые пользователи ставят посту),
 - votes (cодержит информацию о голосах за посты).
 ## База данных
-![bd](https://github.com/Snussumrik/Yandex.Practicum_analitic/blob/main/Базовый%20SQL/1_Baza_dannykh_1673427255.png)
+![bd](https://github.com/Snussumrik/Yandex.Practicum_analitic/blob/main/Продвинутый%20SQL/Frame_353_1_1664969443.png)
