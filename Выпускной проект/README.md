@@ -20,7 +20,7 @@
 - активный клиент,
 - заработная плата клиента.
 ## Используемые библиотеки:
-*pandas, numpy, matplotlib, seaborn, warnings, scipy *
+*pandas, numpy, matplotlib, seaborn, warnings, scipy*
 
 # Часть II: A/B-тестирование
 ## Цель исследования:
