@@ -13,6 +13,8 @@
 - Работа с гипотезами 
 
 ## Диплом по окончанию обучения:
+![bd](https://github.com/Snussumrik/Yandex.Practicum_analitic/blob/main/Копаева%20Екатерина%20Валерьевна_20232ЦПДА00436_page-0001.jpg)
+![bd](https://github.com/Snussumrik/Yandex.Practicum_analitic/blob/main/Копаева%20Екатерина%20Валерьевна_20232ЦПДА00436_page-0002.jpg)
 
 
 ## Проекты:
