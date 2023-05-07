@@ -8,4 +8,4 @@
 - people (cодержит информацию о сотрудниках компаний-стартапов).
 
 ## База данных
-![bd](https://github.com/Snussumrik/Yandex.Practicum_analitic/Базовый SQL/1_Baza_dannykh_1673427255.png)
+![bd](https://github.com/Snussumrik/Yandex.Practicum_analitic/blob/main/Базовый%20SQL/1_Baza_dannykh_1673427255.png)
